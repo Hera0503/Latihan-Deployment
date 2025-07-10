@@ -1,0 +1,3 @@
+matplotib
+seaborn
+pandas
